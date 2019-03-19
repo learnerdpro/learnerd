@@ -1,0 +1,23 @@
+input::-webkit-input-placeholder {
+  margin-left: 20px
+}
+.searchInput {
+  padding-left: 33px;
+}
+
+.navbar-transparent {
+  opacity: 90;
+  background-color: rgba(255, 255, 255, 0.781)
+}
+
+.navbar.navbar-dark .nav-item .nav-link:hover { 
+  color:#007bff!important; 
+  font-weight: bold;
+  background-color: white;
+  border-radius: 12px;
+}
+
+.navbar.navbar-light .nav-item .nav-link:hover { 
+  color:#007bff!important; 
+  font-weight: bold;
+}
